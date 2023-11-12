@@ -15,7 +15,7 @@ Here the robot goes back to the initial positioning while maintaning balance.
 Below we have a small clip of the robot receiving inputs from the app that we develop.
 This was not the main focus of the project, just a proof of concept.
 
-<img src="/InvertedPendulum-Spongebob/Pictures_Vids/APP_Demo_spongebob.gif" width="800"/>
+<img src="/InvertedPendulum-Spongebob/Pictures_Vids/APP_Demo_  spongebob.gif" width="800"/>
 
 Bellow there are 2 images of the SpongeBob robot:
 <p float="left">
